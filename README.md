@@ -1,4 +1,9 @@
 # emojihash
+
+Emoji Hash is a cryptographic encoding that enables the secure encoding of hex-encoded data, such as crypto wallets, public keys, SSH-keys, hashes, and transaction IDs, into a combination of emojis and colors. It maintains all cryptographic entropy. By translating cryptographic material from hex into visually intuitive and recognizable forms, Emoji Hash enhances user accessibility and verification without compromising the underlying security properties. This transformation creates a bridge between the abstract, mathematical world of cryptography and the tangible, user-friendly interface.
+
+
+
 secure emojihash map for hex strings
 ```
 $ python3 main.py B8B92Cc1Fbe8E425184769B296BAD43245Ad2C84
